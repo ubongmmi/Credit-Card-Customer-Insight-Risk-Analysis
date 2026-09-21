@@ -51,7 +51,7 @@ The analysis followed these steps:
 
 ---
 
-## 4. Analysis and Findings
+## 4. Analysis and Findings ![Credit Card Customer Insight Risk Analysis](Customer.jpg)
 
 ### 4.1 Overall Performance
 
