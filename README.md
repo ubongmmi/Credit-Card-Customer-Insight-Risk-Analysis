@@ -96,7 +96,7 @@ Business Owners spend roughly **3x more** than the next-highest segment (Self-Em
 ### 4.5 Age vs. Average Credit Limit
 Credit limit is relatively flat to slightly declining with age, hovering mostly between $0.65M and $0.75M across the 20–70 age range, with no strong age-driven trend.
 
-### 4.6 Credit Utilisation by Card Type
+### 4.6 Credit Utilisation by Card Type ![Credit Card Customer Insight Risk Analysis](Behaviour.jpg)
 - Signature: **43%**
 - Gold: **43%**
 - Platinum: **43%**
