@@ -115,7 +115,7 @@ Credit utilisation is essentially flat across every card tier — card type is n
 
 Like credit utilisation by card type, payment ratio is nearly flat across occupations (76%–77%) — a weak differentiator on its own.
 
-### 4.8 Spending Category Breakdown (Average)
+### 4.8 Spending Category Breakdown (Average) ![Credit Card Customer Insight risk Analysis](Risk Story.jpg)
 - Grocery Spending: **17,794**
 - Online Shopping Spending: **11,238**
 - Fuel Spending: **10,213**
@@ -125,7 +125,7 @@ Like credit utilisation by card type, payment ratio is nearly flat across occupa
 Grocery is the leading spending category by a clear margin, more than 1.5x the next-highest category (Online Shopping).
 
 ### 4.9 Income vs. Spending by Card Type  ![Credit Card Customer Insight risk Analysis](Risk Story.jpg)
-- Basic: lowest income and spending ![Credit Card Customer Insight Risk Analysis](Risk Story.jpg)  
+- Basic: lowest income and spending  
 - Silver: modestly higher than Basic
 - Gold: moderate income and spending
 - Platinum: markedly higher income (~$2.3M) and spending (~$0.19M)
